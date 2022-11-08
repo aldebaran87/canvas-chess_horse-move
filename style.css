@@ -1,0 +1,11 @@
+
+#canvas {
+	border: 65px solid black;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	width: 600px;
+	height: 600px;
+	transform: translate(-50%, -50%);
+	cursor: url("Chess-Knight.svg"), auto;
+}
